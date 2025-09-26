@@ -1,22 +1,45 @@
 import React from "react";
+import {
+  ContactWrapper,
+  ContactTitle,
+  ContactInfo,
+  SocialIcons,
+ 
+  
+} from "./style";
+import { FaInstagram, FaWhatsapp } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <div>
-      <h1>Contact Us</h1>
-      <form>
-        <label>Name:</label>
-        <input type="text" placeholder="Enter your name" /><br /><br />
+    <ContactWrapper>
+      <ContactTitle>Contact Us</ContactTitle>
+      
+      <SocialIcons>
+       
+        
+                <a  href="https://instagram.com/alwadicarpentry1993"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                   <FaInstagram />
+                </a>
 
-        <label>Email:</label>
-        <input type="email" placeholder="Enter your email" /><br /><br />
+        
+        <FaWhatsapp />
+       
+      </SocialIcons>
 
-        <label>Message:</label><br />
-        <textarea rows="4" placeholder="Write your message"></textarea><br /><br />
+      <ContactInfo>
+        <p>
+          We’d love to hear from you.<br />Whether it’s query, feedback, or collaboration idea – drop us a message!
+        </p>
+        <p> 📞055 384 3506</p>
+        <p> 📍G Block, IND.Area Al Hyal , Fujairah - U.A.E</p>
+        
+        <p> ✉️ alwadicarpentry1993@gmail.com</p>
+      </ContactInfo>
 
-        <button type="submit">Send</button>
-      </form>
-    </div>
+      
+    </ContactWrapper>
   );
 };
 
