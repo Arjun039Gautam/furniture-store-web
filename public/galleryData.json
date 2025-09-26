@@ -1,0 +1,123 @@
+{
+ 
+  "curtains": [
+    "/gallery/curtains/img1.jpg",
+    "/gallery/curtains/img2.jpg",
+    "/gallery/curtains/img3.jpg",
+    "/gallery/curtains/img4.jpg",
+    "/gallery/curtains/img5.jpg",
+    "/gallery/curtains/img6.jpg",
+    "/gallery/curtains/img7.jpg",
+    "/gallery/curtains/img8.jpg",
+    "/gallery/curtains/img9.jpg",
+    "/gallery/curtains/img10.jpg",
+    "/gallery/curtains/img11.jpg",
+    "/gallery/curtains/img12.jpg",
+    "/gallery/curtains/img13.jpg",
+    "/gallery/curtains/img14.jpg",
+    "/gallery/curtains/img15.jpg",
+    "/gallery/curtains/img16.jpg",
+    "/gallery/curtains/img17.jpg"
+
+  ],
+  "Exterior": [
+    "/gallery/Exterior/img1.jpg",
+    "/gallery/Exterior/img2.jpg",
+    "/gallery/Exterior/img3.jpg",
+    "/gallery/Exterior/img4.jpg",
+    "/gallery/Exterior/img5.jpg",
+    "/gallery/Exterior/img6.jpg",
+    "/gallery/Exterior/img7.jpg",
+    "/gallery/Exterior/img8.jpg",
+    "/gallery/Exterior/img9.jpg"
+  ],
+
+  
+    "Interior": [
+      "/gallery/Interior/img1.jpg",
+      "/gallery/Interior/img2.jpg",
+      "/gallery/Interior/img3.jpg",
+      "/gallery/Interior/img4.jpg",
+      "/gallery/Interior/img5.jpg",
+      "/gallery/Interior/img6.jpg",
+      "/gallery/Interior/img7.JPG",
+      "/gallery/Interior/img8.JPG",
+      "/gallery/Interior/img9.JPG",
+      "/gallery/Interior/img10.JPG",
+      "/gallery/Interior/img11.PNG",
+      "/gallery/Interior/img12.PNG",
+      "/gallery/Interior/img13.PNG",
+      "/gallery/Interior/img14.PNG",
+      "/gallery/Interior/img15.PNG",
+      "/gallery/Interior/img16.PNG",
+      "/gallery/Interior/img17.JPG",
+      "/gallery/Interior/img18.JPG",
+      "/gallery/Interior/img19.JPG",
+      "/gallery/Interior/img20.JPG",
+        "/gallery/Interior/img21.JPG",
+        "/gallery/Interior/img22.JPG",
+        "/gallery/Interior/img23.JPG",
+        "/gallery/Interior/img24.JPG",
+        "/gallery/Interior/img25.JPG",
+        "/gallery/Interior/img26.JPG",
+        "/gallery/Interior/img27.JPG",
+        "/gallery/Interior/img28.JPG",
+        "/gallery/Interior/img29.JPG",
+        "/gallery/Interior/img30.JPG"
+    ],
+
+    "Staircase": [
+      "/gallery/Staircase/img1.jpg",
+      "/gallery/Staircase/img2.jpg",
+      "/gallery/Staircase/img3.jpg",
+      "/gallery/Staircase/img4.jpg",
+      "/gallery/Staircase/img5.jpg",
+      "/gallery/Staircase/img6.jpg",
+      "/gallery/Staircase/img7.jpg",
+      "/gallery/Staircase/img8.jpg",
+      "/gallery/Staircase/img9.jpg",
+        "/gallery/Staircase/img10.jpg",
+        "/gallery/Staircase/img11.jpg",
+        "/gallery/Staircase/img12.jpg",
+        "/gallery/Staircase/img13.jpg",
+        "/gallery/Staircase/img14.jpg",
+        "/gallery/Staircase/img15.jpg",
+        "/gallery/Staircase/img16.jpg",
+        "/gallery/Staircase/img17.jpg",
+        "/gallery/Staircase/img18.jpg",
+        "/gallery/Staircase/img19.jpg",
+        "/gallery/Staircase/img20.jpg"
+    ],
+
+    "Wooden":[
+        "/gallery/Wooden/img1.JPG",
+        "/gallery/Wooden/img2.jpg",
+        "/gallery/Wooden/img3.jpg",
+        "/gallery/Wooden/img4.jpg",
+        "/gallery/Wooden/img5.jpg",
+        "/gallery/Wooden/img6.jpg",
+        "/gallery/Wooden/img7.JPG",
+        "/gallery/Wooden/img8.jpg",
+        "/gallery/Wooden/img9.JPG",
+        "/gallery/Wooden/img10.JPG",
+        "/gallery/Wooden/img11.JPG",
+        "/gallery/Wooden/img12.JPG",
+        "/gallery/Wooden/img13.PNG",
+        "/gallery/Wooden/img14.PNG",
+        "/gallery/Wooden/img15.jpg",
+        "/gallery/Wooden/img16.jpg",
+        "/gallery/Wooden/img17.JPG",
+        "/gallery/Wooden/img18.JPG",
+        "/gallery/Wooden/img19.PNG",
+        "/gallery/Wooden/img20.jpg",
+        "/gallery/Wooden/img21.WEBP",
+        "/gallery/Wooden/img22.jpg",
+        "/gallery/Wooden/img23.jpg"
+        
+        
+
+
+
+    ]
+  
+}
