@@ -6,11 +6,13 @@ import Home from "./components/home";
 import About from "./components/about";
 import Gallery from "./components/gallery";
 import Contact from "./components/contact";
+import ScrollToTop from "./components/scrolltotop"; // Import the component
 
 function App() {
   return (
     <Router>
       <Header />
+      <ScrollToTop /> {/* Add ScrollToTop here */}
       <main style={{ minHeight: "80vh"}}>
         <Routes>
           <Route path="/" element={<Home />} />
