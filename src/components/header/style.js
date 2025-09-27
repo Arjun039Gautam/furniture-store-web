@@ -24,8 +24,12 @@ const Wrapper = styled.header`
     padding: 10px 50px;
   }
 
-  .logo img {
+  .logo-1 {
     height: 60px;
+    object-fit: contain;
+  }
+  .logo-2{
+    height: 50px;
     object-fit: contain;
   }
 

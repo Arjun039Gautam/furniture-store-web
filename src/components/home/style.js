@@ -301,6 +301,16 @@ const Wrapper = styled.div`
     font-size: 1rem;
     color: #666;
   }
+  @media (max-width: 768px) {
+    .collection-grid {
+      justify-content: space-around;
+      gap: 15px; /* Adjust gap for mobile */
+    }
+    .collection-grid img {
+      width: 45%; /* Display two images per row */
+      height: 150px; /* Make them rectangular */
+    }
+  }
 `;
 
 export default Wrapper;

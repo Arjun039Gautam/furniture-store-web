@@ -13,7 +13,7 @@ const Wrapper = styled.div`
     align-items: flex-start;
     padding: 40px 8%;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 90px;
   }
 
   /* Logo */
@@ -56,7 +56,7 @@ const Wrapper = styled.div`
 
   /* Social */
   .footer-social {
-    flex: 1 1 180px;
+    flex: 1 1 150px;
   }
 
   .footer-social h3 {
@@ -99,7 +99,7 @@ const Wrapper = styled.div`
 
   /* Info */
   .footer-info {
-    flex: 1 1 180px;
+    flex: 1 1 150px;
   }
 
   .footer-info h3 {
@@ -157,8 +157,8 @@ const Wrapper = styled.div`
       flex-direction: column;
       text-align: center;
       align-items: center;
+      gap: 5px;
     }
-
     .footer-logo img {
       margin-bottom: 20px;
     }

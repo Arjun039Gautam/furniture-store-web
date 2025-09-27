@@ -12,7 +12,7 @@ const Footer = () => {
           {/* Logo */}
           <div className="footer-logo">
             <img
-              src="\images\furniture-logo.jpg"
+              src="\images\logo-alwadi-bg.png"
               alt="Al Wadi Carpentry Logo"
             />
           </div>

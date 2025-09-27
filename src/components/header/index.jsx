@@ -19,7 +19,8 @@ const Header = () => {
         <div className="header-content">
           <div className="logo">
             <NavLink to="/">
-              <img src='\images\furniture-logo.jpg' alt="Al Wadi Carpentry Logo" />
+              <img className='logo-1' src='\images\logo-alwadi-bg2.png' alt="Al Wadi Carpentry Logo" />
+              <img className='logo-2' src="\images\logo-alwadi-bg3.png" alt="" />
             </NavLink>
           </div>
           
